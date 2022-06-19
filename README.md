@@ -1,2 +1,2 @@
-# restaurant-menu-react-project
+# restaurant-delete-edit-button-react-practice
 Created with CodeSandbox
